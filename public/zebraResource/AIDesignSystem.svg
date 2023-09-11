@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150"><g fill="none" fill-rule="evenodd" transform="translate(70 5)"><g transform="translate(0 51)"><rect width="98.5" height="38.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><path fill="#F97316" fill-rule="nonzero" d="M198.666667 14.25 210.666667 20 198.666667 25.75 198.666 20.75 100 20.75 100 19.25 198.666 19.25 198.666667 14.25ZM428.666667 14.25 440.666667 20 428.666667 25.75 428.666 20.75 330 20.75 330 19.25 428.666 19.25 428.666667 14.25Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                    <tspan x="25" y="24">UI设计系统</tspan>
+                </text></g><g transform="translate(210 51)"><rect width="118.5" height="38.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                    <tspan x="15" y="24">生成详细的设计文档</tspan>
+                </text></g><g transform="translate(440)"><rect width="218.5" height="139.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><g transform="translate(20 20)"><path fill="#F97316" fill-opacity=".2" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="1.5" d="M0,0 L180,0 L180,40 L0,40 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                        <tspan x="9.702" y="24">可阅读文档的的AI，如：openChat</tspan>
+                    </text></g><g transform="translate(20 70)"><path fill="#F97316" fill-opacity=".2" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="1.5" d="M0,0 L180,0 L180,51 L0,51 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                        <tspan x="10.586" y="23">通过对话方式让openChat返回UI设</tspan>
+                        <tspan x="10.586" y="37">计系统中的组件代码</tspan>
+                    </text></g></g></g></svg>

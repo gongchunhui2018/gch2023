@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240"><g fill="none" fill-rule="evenodd" transform="translate(5)"><g transform="translate(0 30)"><g transform="translate(0 30)"><rect width="148.5" height="148.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><text fill="#F97316" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                        <tspan x="10" y="71">提供了一系列可重用的基础UI</tspan>
+                        <tspan x="10" y="85">组件，如按钮、文本框、下拉</tspan>
+                        <tspan x="10" y="99">菜单等，方便设计师快速创建</tspan>
+                        <tspan x="10" y="113">自己的UI设计系统。</tspan>
+                    </text><g transform="translate(10 10)"><path fill="#F97316" fill-opacity=".2" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="1.5" d="M0,0 L130,0 L130,40 L0,40 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                            <tspan x="40.245" y="24">基础UI组件</tspan>
+                        </text></g></g><g transform="translate(160 30)"><rect width="148.5" height="148.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><text fill="#F97316" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                        <tspan x="10" y="71">基础组件可通过读取样式配置</tspan>
+                        <tspan x="10" y="85">表进行样式的自我更新。设计</tspan>
+                        <tspan x="10" y="99">师只要输出样式配置表即可，</tspan>
+                        <tspan x="10" y="113">管理好样式配置表就能管理好</tspan>
+                        <tspan x="10" y="127">组件的样式。</tspan>
+                    </text><g transform="translate(10 10)"><path fill="#F97316" fill-opacity=".2" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="1.5" d="M0,0 L130,0 L130,40 L0,40 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                            <tspan x="30" y="24">样式编辑与管理</tspan>
+                        </text></g></g><g transform="translate(320 30)"><rect width="148.5" height="178.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><text fill="#F97316" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                        <tspan x="10" y="71">系统可使用github进行版本管</tspan>
+                        <tspan x="10" y="85">理，设计师修改样式之后，直</tspan>
+                        <tspan x="10" y="99">接将新版本推送至github。开</tspan>
+                        <tspan x="10" y="113">发人员可通过版本号获取最新</tspan>
+                        <tspan x="10" y="127">组件，设计人员也可以通设计</tspan>
+                        <tspan x="10" y="141">软的插件拉取最新的组件库，</tspan>
+                        <tspan x="10" y="155">用于快速搭建界面。</tspan>
+                    </text><g transform="translate(10 10)"><path fill="#F97316" fill-opacity=".2" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="1.5" d="M0,0 L130,0 L130,40 L0,40 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                            <tspan x="30" y="24">协作和版本控制</tspan>
+                        </text></g></g><g transform="translate(480 30)"><rect width="148.5" height="148.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><text fill="#F97316" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                        <tspan x="10" y="71">提供了一套基础的图标库和颜</tspan>
+                        <tspan x="10" y="85">色演算系统。设计师可通过可</tspan>
+                        <tspan x="10" y="99">视化的编辑器编辑图标。通过</tspan>
+                        <tspan x="10" y="113">色彩演算系统生成自己的色</tspan>
+                        <tspan x="10" y="127">板。</tspan>
+                    </text><g transform="translate(10 10)"><path fill="#F97316" fill-opacity=".2" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="1.5" d="M0,0 L130,0 L130,40 L0,40 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                            <tspan x="15" y="24">图标库，色彩演算系统</tspan>
+                        </text></g></g><g transform="translate(640 30)"><rect width="148.5" height="148.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><text fill="#F97316" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                        <tspan x="10" y="71">可视化编辑器是一个辅助工</tspan>
+                        <tspan x="10" y="85">具，给设计师提供快速编辑组</tspan>
+                        <tspan x="10" y="99">件样式的功能。</tspan>
+                    </text><g transform="translate(10 10)"><path fill="#F97316" fill-opacity=".2" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="1.5" d="M0,0 L130,0 L130,40 L0,40 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                            <tspan x="35.5" y="24">可视化编辑器</tspan>
+                        </text></g></g><line x1="395" x2="395" y2="30" stroke="#F97316" stroke-width="1.5"/><polyline stroke="#F97316" stroke-width="1.5" points="75 30 75 15 714 15 714 30"/><line x1="555" x2="555" y1="30" y2="15" stroke="#F97316" stroke-width="1.5"/><line x1="235" x2="235" y1="30" y2="15" stroke="#F97316" stroke-width="1.5"/></g><g transform="translate(345)"><rect width="98.5" height="28.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                    <tspan x="25" y="19">UI设计系统</tspan>
+                </text></g></g></svg>

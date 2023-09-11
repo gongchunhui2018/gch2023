@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210"><g fill="none" fill-rule="evenodd"><rect width="298" height="178" x="1" y="16" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="2" rx="8"/><rect width="158" height="58" x="451" y="76" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="2" rx="8"/><rect width="158" height="58" x="641" y="76" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="2" rx="8"/><rect width="258" height="122" x="21" y="52" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="2" rx="4"/><path fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="2" d="M160,85 L260,85 L260,155 L160,155 Z"/><path fill="#FFF" fill-rule="nonzero" d="M210,101 C215.522847,101 220,105.477153 220,111 C220,116.522847 215.522847,121 210,121 C204.477153,121 200,116.522847 200,111 C200,105.477153 204.477153,101 210,101 Z M210.357143,112.428571 L209.642857,112.428571 C209.248368,112.428571 208.928571,112.748368 208.928571,113.142857 L208.928571,116 C208.928571,116.394489 209.248368,116.714286 209.642857,116.714286 L210.357143,116.714286 C210.751632,116.714286 211.071429,116.394489 211.071429,116 L211.071429,113.142857 C211.071429,112.748368 210.751632,112.428571 210.357143,112.428571 Z M206.428571,106.714286 L205.714286,106.714286 C205.319797,106.714286 205,107.034082 205,107.428571 L205,110.285714 C205,110.680203 205.319797,111 205.714286,111 L206.428571,111 C206.823061,111 207.142857,110.680203 207.142857,110.285714 L207.142857,107.428571 C207.142857,107.034082 206.823061,106.714286 206.428571,106.714286 Z M214.285714,106.714286 L213.571429,106.714286 C213.176939,106.714286 212.857143,107.034082 212.857143,107.428571 L212.857143,110.285714 C212.857143,110.680203 213.176939,111 213.571429,111 L214.285714,111 C214.680203,111 215,110.680203 215,110.285714 L215,107.428571 C215,107.034082 214.680203,106.714286 214.285714,106.714286 Z"/><path fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="2" d="M40,85 L140,85 L140,155 L40,155 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="14">
+            <tspan x="20" y="40">Contents</tspan>
+        </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+            <tspan x="40" y="75">Sketch文件夹</tspan>
+        </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="14">
+            <tspan x="483" y="110">Sketch JS API</tspan>
+        </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="14">
+            <tspan x="321" y="94">NodeJS Polyfulls</tspan>
+        </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="14">
+            <tspan x="673" y="110">Sketch Internal</tspan>
+        </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+            <tspan x="52" y="108">manifest.json</tspan>
+            <tspan x="52" y="125">功能模块.js</tspan>
+            <tspan x="52" y="142">……</tspan>
+        </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+            <tspan x="186" y="134">icon.png</tspan>
+        </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+            <tspan x="160" y="75">Resources文件夹</tspan>
+        </text><line x1="300" x2="450" y1="105" y2="105" stroke="#F97316" stroke-width="2"/><line x1="610" x2="640" y1="105" y2="105" stroke="#F97316" stroke-width="2"/></g></svg>

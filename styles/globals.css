@@ -1,0 +1,100 @@
+
+html,
+body {
+  background: hsl(var(--bg-primary-dark));
+}
+
+
+
+/* tailwindcss默认样式 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+      --lime-dark: 45deg 93% 47%; /*柠檬黄--深色模式*/
+      --lime-light: 45deg 93% 55%; /*柠檬黄--浅色模式*/
+      --blue-dark: 217deg 91% 60%; /*蓝色--深色模式*/
+      --blue-light: 217deg 91% 62%; /*蓝色--浅色模式*/
+      --orange-dark: 25deg 95% 53%; /*活力橙--深色模式*/
+      --orange-light: 25deg 95% 55%; /*活力橙--浅色模式*/
+      --red-dark: 360deg 84% 60%; /*红色--深色模式*/
+      --red-light: 360deg 84% 62%; /*红色--浅色模式*/
+      --text-primary-dark: 0deg 0% 100%; /*文本颜色--主要--深色模式*/
+      --text-primary-light: 0deg 0% 0%; /*文本颜色--主要--浅色模式*/
+      --text-secondary-dark: 240deg 2% 60%; /*文本颜色--次要--深色模式*/
+      --text-secondary-light: 240deg 2% 68%; /*文本颜色--次要--浅色模式*/
+      --text-disabled-dark: 240deg 2% 40%; /*文本颜色--禁用--深色模式*/
+      --text-disabled-light: 240deg 2% 88%; /*文本颜色--禁用--浅色模式*/
+      --text-hint-dark: 240deg 2% 20%; /*文本颜色--提示--深色模式*/
+      --text-hint-light: 240deg 2% 78%; /*文本颜色--提示--浅色模式*/
+      --bg-primary-dark: 0deg 0% 6%; /*背景颜色--主要--深色模式*/
+      --bg-primary-light: 0deg 0% 98%; /*背景颜色--主要--浅色模式*/
+      --bg-secondary-dark: 0deg 0% 18%; /*背景颜色--次要--深色模式*/
+      --bg-secondary-light: 0deg 0% 82%; /*背景颜色--次要--浅色模式*/
+      --border-primary-dark: 0deg 0% 18%; /*边框颜色--主要--深色模式*/
+      --border-primary-light: 0deg 0% 82%; /*边框颜色--主要--浅色模式*/
+      
+      --car-bg: 0deg 0% 98%; /*卡片背景颜色--浅色模式*/
+      --car-text-primary: 0deg 0% 6%; /*卡片文本颜色--浅色模式*/
+      --car-text-secondary: 240deg 2% 54%; /*卡片文本颜色--浅色模式*/
+     
+  }
+
+}
+
+@layer components {
+  .GCHheading-xs {
+    @apply  text-left text-xl font-HM_Regular  font-semibold text-white tracking-wider leading-normal;
+  }
+  .GCHheading-sm {
+    @apply  text-left text-2xl font-HM_Regular  font-semibold  text-white tracking-wider leading-normal;
+  }
+  .GCHheading-md {
+    @apply  text-left text-4xl  font-HM_Regular  font-semibold text-white tracking-wider leading-normal;
+  }
+  .GCHheading-lg {
+    @apply  text-left text-7xl font-HM_Regular  font-semibold text-white tracking-wider leading-normal;
+  }
+  .GCHheading-xl {
+    @apply  text-left text-8xl font-HM_Regular  font-semibold text-white tracking-wider leading-normal;
+  }
+
+
+  .GCHtext-base {
+    @apply  text-left text-base  font-HM_Regular  text-[#97979B] tracking-wider leading-normal;
+  }
+  .GCHtext-sm {
+    @apply  text-left text-sm font-HM_Regular  text-[#97979B] tracking-wider leading-normal;
+  }
+  .GCHtext-xs {
+    @apply  text-left text-xs font-HM_Regular  text-[#97979B] tracking-wider leading-normal;
+  }
+  .GCHtitle-base {
+    @apply  text-left text-base font-HM_Regular font-semibold text-white tracking-wider leading-normal;
+  }
+  .GCHtitle-sm {
+    @apply  text-left text-sm font-HM_Regular font-semibold text-white tracking-wider leading-normal;
+  }
+  .GCHtitle-xs {
+    @apply  text-left text-xs font-HM_Regular font-semibold text-white tracking-wider leading-normal;
+  }
+
+
+  .GCHcard {
+    @apply  container rounded-2xl  bg-gradient-to-br from-[#1F1F1F] via-[#1A1A1A] to-[#141414] border border-[#2e2e2e]/80;
+  }
+  .GCHcard-black {
+    @apply  container rounded-2xl bg-[#0F0F0F] border border-[#2e2e2e]/80;
+  }
+  
+
+
+
+  .GCHcontainer {
+    @apply container w-[1200px] h-auto ;
+  }
+
+
+}

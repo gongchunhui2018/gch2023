@@ -1,0 +1,29 @@
+.coverBg {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  position: relative;
+  /* padding: 4rem 0; */
+  /* z-index: -1; */
+}
+.coverBg::before {
+  background: var(--secondary-glow);
+  border-radius: 36%;
+  width: 480px;
+  height: 300px;
+  margin-left: -460px;
+}
+.coverBg::after {
+  background: var(--primary-glow);
+  width: 240px;
+  height: 240px;
+  z-index: -1;
+}
+.coverBg::before,
+.coverBg::after {
+  content: '';
+  left: 30%;
+  position: absolute;
+  filter: blur(36px);
+  transform: translateZ(0);
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200"><g fill="none" fill-rule="evenodd" transform="translate(0 10)"><rect width="298.5" height="178.5" x=".75" y=".75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><rect width="138.5" height="38.5" x="450.75" y="70.75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><rect width="158.5" height="38.5" x="640.75" y="70.75" fill="#F97316" fill-opacity=".1" stroke="#F97316" stroke-width="1.5"/><rect width="258.5" height="122.5" x="20.75" y="36.75" stroke="#F97316" stroke-width="1.5"/><path fill="#F97316" fill-opacity=".2" stroke="#F97316" stroke-dasharray="1 4" stroke-linecap="round" stroke-width="1.5" d="M155 70 260 70 260 140 155 140ZM40 70 145 70 145 140 40 140Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                <tspan x="20" y="23">conan-zebra-design-plugin</tspan>
+            </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                <tspan x="40" y="57">Sketch文件夹</tspan>
+            </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                <tspan x="487" y="94">Sketch JS API</tspan>
+            </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                <tspan x="336" y="77">NodeJS Polyfulls</tspan>
+            </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                <tspan x="685" y="94">Sketch Internal</tspan>
+            </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                <tspan x="61" y="95">manifest.json</tspan>
+                <tspan x="61" y="109">功能模块.js</tspan>
+                <tspan x="61" y="123">……</tspan>
+            </text><path fill="#FFF" fill-rule="nonzero" d="M207,88 C212.522847,88 217,92.4771525 217,98 C217,103.522847 212.522847,108 207,108 C201.477153,108 197,103.522847 197,98 C197,92.4771525 201.477153,88 207,88 Z M207.357143,99.4285714 L206.642857,99.4285714 C206.248368,99.4285714 205.928571,99.748368 205.928571,100.142857 L205.928571,103 C205.928571,103.394489 206.248368,103.714286 206.642857,103.714286 L207.357143,103.714286 C207.751632,103.714286 208.071429,103.394489 208.071429,103 L208.071429,100.142857 C208.071429,99.748368 207.751632,99.4285714 207.357143,99.4285714 Z M203.428571,93.7142857 L202.714286,93.7142857 C202.319797,93.7142857 202,94.0340823 202,94.4285714 L202,97.2857143 C202,97.6802034 202.319797,98 202.714286,98 L203.428571,98 C203.823061,98 204.142857,97.6802034 204.142857,97.2857143 L204.142857,94.4285714 C204.142857,94.0340823 203.823061,93.7142857 203.428571,93.7142857 Z M211.285714,93.7142857 L210.571429,93.7142857 C210.176939,93.7142857 209.857143,94.0340823 209.857143,94.4285714 L209.857143,97.2857143 C209.857143,97.6802034 210.176939,98 210.571429,98 L211.285714,98 C211.680203,98 212,97.6802034 212,97.2857143 L212,94.4285714 C212,94.0340823 211.680203,93.7142857 211.285714,93.7142857 Z"/><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                <tspan x="189" y="119">icon.png</tspan>
+            </text><text fill="#FFF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                <tspan x="155" y="57">Resources文件夹</tspan>
+            </text><path fill="#F97316" fill-rule="nonzero" d="M438.666667 84.25 450.666667 90 438.666667 95.75 438.666 90.75 300 90.75 300 89.25 438.666 89.25 438.666667 84.25ZM628.666667 84.25 640.666667 90 628.666667 95.75 628.666 90.75 590 90.75 590 89.25 628.666 89.25 628.666667 84.25Z"/></g></svg>
