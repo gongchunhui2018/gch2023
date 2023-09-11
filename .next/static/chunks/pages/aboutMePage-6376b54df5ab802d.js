@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[981],{2010:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/aboutMePage",function(){return u(9251)}])}},function(n){n.O(0,[675,170,251,774,888,179],function(){return n(n.s=2010)}),_N_E=n.O()}]);

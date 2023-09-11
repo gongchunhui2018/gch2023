@@ -1,6 +1,25 @@
 {
-  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/backCoverPage": "pages/backCoverPage.js",
+  "/aboutMePage": "pages/aboutMePage.js",
+  "/components/chart": "pages/components/chart.js",
+  "/components/colorPicker": "pages/components/colorPicker.js",
+  "/components/colorsManagement": "pages/components/colorsManagement.js",
+  "/components/headingComponent": "pages/components/headingComponent.js",
+  "/components/optionGroup": "pages/components/optionGroup.js",
+  "/api/hello": "pages/api/hello.js",
+  "/components/weatherParse": "pages/components/weatherParse.js",
+  "/coverPage": "pages/coverPage.js",
+  "/components/icons": "pages/components/icons.js",
+  "/designCode/demoUIAll": "pages/designCode/demoUIAll.js",
+  "/designCode/carDashboard": "pages/designCode/carDashboard.js",
+  "/designCode/iconDesign": "pages/designCode/iconDesign.js",
+  "/zebra/zebraColor": "pages/zebra/zebraColor.js",
+  "/": "pages/index.js",
+  "/designCode/smartHome": "pages/designCode/smartHome.js",
+  "/zebra/zebraCourse": "pages/zebra/zebraCourse.js",
+  "/zebra/zebraPlugin": "pages/zebra/zebraPlugin.js",
+  "/_app": "pages/_app.js",
+  "/designCode/weatherAPP": "pages/designCode/weatherAPP.js"
 }
